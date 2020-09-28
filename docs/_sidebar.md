@@ -8,3 +8,4 @@
   - [Accomodating Players](toolbox/accomodating-players.md)
   - [Lines and Veils](toolbox/lines-and-veils.md)
   - [One Level Removed](toolbox/one-level-removed.md)
+- [Planning and Improvising](planning-and-improvising.md)
