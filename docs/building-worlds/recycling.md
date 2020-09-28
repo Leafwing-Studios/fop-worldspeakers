@@ -1,0 +1,5 @@
+# Recycling
+
+As we've talked about, it's relatively common that pieces you create will be passed over in a particular module or place. This may seem wasteful, but fear not! In general, it is quite easy to **recycle** the core or important work from a scene, dungeon, monster, place, etc. This allows you to further save time writing, by saving the good parts that went unsed. Examples of recycling content are:
+- There are a handful of monsters native to a font, but the party has gone to other adventures. Change the look at motivations of the monsters, and maybe which type(s) of damage they deal. Then, they can easily be reused somewhere else.
+- You planned a negotiation scene that the players bypassed with force. Change the names around, and the motivations slightly, then use anything else prepared later on. 
