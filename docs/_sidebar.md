@@ -1,6 +1,4 @@
-- [Introduction](intro/)
-  - [The Building Blocks of Play](intro/building-blocks.md)
-  - [Collaborative Rulekeeping](intro/collaborative-rulekeeping.md)
+- [Introduction](/)
 - [Rules](rules/)
   - [Narrative Mechanics](rules/narrative-mechanics/)
     - [Resolve](rules/narrative-mechanics/resolve.md)
